@@ -1,0 +1,281 @@
+
+@media (max-width: 260px){
+
+    
+    .divSel{
+        width:  30vw !important;
+        height: 20vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:inline-flex;
+    }
+
+}
+@media (min-width: 260px){
+
+    
+    .divSel{
+        width:  36vw !important;
+        height: 24vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:inline-flex;
+    }
+
+}
+@media (min-width: 360px){
+
+    
+    .divSel{
+        width:  38vw !important;
+        height: 25.3vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:inline-flex;
+    }
+
+}
+
+
+@media (min-width: 440px){
+
+    
+    .divSel{
+        width:  40vw !important;
+        height: 26.6vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:inline-flex;
+    }
+
+}
+@media (min-width: 480px){
+
+    
+    .divSel{
+        width:  28vw !important;
+        height: 18.6vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:inline-flex;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+
+
+@media (min-width: 540px){
+
+    
+    .divSel{
+        width:  25vw !important;
+        height: 16.6vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:inline-flex;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+
+@media (min-width: 640px){
+
+    .divSel{
+        width:  20vw !important;
+        height: 13.3vw !important;
+    }
+    .mobileHideNew{
+        display: none;
+    }
+    .mobileHideDesktop{
+        display:inline-flex;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+@media (min-width: 768px){
+
+
+    .divSel{
+        width:  11vw !important;
+        height: 7.3vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+@media (min-width: 880px){
+
+    .divSel{
+        width:  9.8vw !important;
+        height: 6.5vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+
+
+@media (min-width: 990px){
+
+    .divSel{
+        width:  12.8vw !important;
+        height: 8.5vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+@media (min-width: 1090px){
+
+    .divSel{
+        width:  11.6vw !important;
+        height: 8.2vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+@media (min-width: 1200px){
+
+    .divSel{
+        width:  12.6vw !important;
+        height: 8.4vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+@media (min-width: 1340px){
+
+    .divSel{
+        width:  11.8vw !important;
+        height: 7.8vw !important;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+@media (min-width: 1440px){
+
+    .divSel{
+        width:  12.7vw !important;
+        height: 4.5vw ;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+}
+@media (min-width: 1560px){
+
+    .divSel{
+        width:  12vw !important;
+        height: 8vw ;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+@media (min-width: 1680px){
+    .divSel{
+        width:  10.5vw !important;
+        height: 7vw ;
+    }
+    .mobileHideNew{
+        display: inline-flex;
+    }
+    .mobileHideDesktop{
+        display:none;
+    }
+    .desktopHideNew{
+        display:none;
+    }
+
+}
+

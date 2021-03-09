@@ -1,0 +1,181 @@
+@media screen and (max-width: 700px) {
+    .purchaseDiv{
+        margin-top: 80px;
+    }
+    .playlistBannerImage{
+        width: 65vw;
+        border-radius: 10px;
+        border: solid white;
+    }
+    .PlaylistName{
+        font-size: 5vw;
+        color:white;
+        font-family: Aclonica;
+    }
+    .PlaylistPurchase{
+        font-size: 5.5vw;
+        color:white;
+        font-family: Georgia, serif;
+    }
+    .PlaylistDivPoint{
+        width: 230px;
+        height: 100px;
+        background-color: #151f30;
+        border-radius: 10px;
+        border: solid 1px #2196f3;
+    }
+    .pointText{
+        font-size: 30px;
+        color:white;
+        font-family: Amarante;
+    }
+    .pointLife{
+        font-size: 17px;
+        color:white;
+        font-family: Amarante;
+    }
+    .modalPurchase{
+        width: 80vw;
+    }
+  }
+
+  @media screen and (min-width: 700px) {
+    .purchaseDiv{
+        margin-top: 10px;
+    }
+    .playlistBannerImage{
+        width: 40vw;
+        border-radius: 10px;
+        border: solid white;
+    }
+    .PlaylistName{
+        font-size: 2.5vw;
+        color:white;
+        font-family: Aclonica;
+    }
+    .PlaylistPurchase{
+        font-size: 2.5vw;
+        color:white;
+        font-family: Georgia, serif;
+    }
+    .PlaylistDivPoint{
+        width: 280px;
+        height: 100px;
+        background-color: #151f30;
+        border-radius: 10px;
+        border: solid 1px #2196f3;
+    }
+    .pointText{
+        font-size: 30px;
+        color:white;
+        font-family: Amarante;
+    }
+    .pointLife{
+        font-size: 17px;
+        color:white;
+        font-family: Amarante;
+    }
+    .modalPurchase{
+        width: 455px;
+    }
+
+    
+  }
+
+  .vesPlus{
+    color: white;
+    padding: 3px 5px;
+    font-family: Monospace;
+    background-color: #354721;
+    width: -moz-fit-content;
+    width: fit-content;
+    font-size: 12px;
+    float: left;
+    border-radius: 5px;
+    
+  }
+  .iconStyle{
+    float: right;
+    color: #03a9f4;
+    font-size: 20px;
+  }
+
+  .PlaylistDivPoint{
+      cursor: pointer;
+  }
+  .PlaylistDivPoint:hover{
+    cursor: pointer;
+    background-color: #080e1a;
+}
+
+.continueBtn{
+    width: 250px !important;
+    background-color: #034e99 !important;
+}
+
+.continueBtn:hover{
+    width: 250px !important;
+    background-color: #151f30!important;
+}
+.react-responsive-modal-modal {
+    max-width: 800px;
+    text-align: left;
+    vertical-align: middle;
+    background: #111927 !important;
+    box-shadow: 0 12px 15px 0 rgb(0 0 0 / 25%);
+    margin: 1.2rem;
+    padding: 1.2rem;
+    position: relative;
+    overflow-y: auto;
+    z-index: 1 !important;
+}
+
+
+
+
+.logoModal{
+    height: 40px;
+}
+.logoDiv{
+    padding: 10px 10px 0px 23px;
+}
+.vesPlusPadding{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.modalPoint{
+    color: white;
+    font-size: 25px;
+}
+.modalPointP{
+    color: white;
+    font-size: 12px;
+    
+}
+.mainModa{
+    float:right;
+    
+}
+.mainModaDes{
+    font-size: 12px;
+    color: white;
+}
+.walletClass{
+    padding: 0 20px 0 10px;
+    color: white;
+}
+.newBtn{
+    margin-top: 15px !important;
+    width: 100% !important;
+    background-color: #034e99 !important;
+    border-radius: 10px !important;
+}
+
+.abcdsfsf > .rc-loading .rc-loading-mask {
+    z-index: 2000 !important;
+    background-color: #00000061 !important;
+  }
+  .react-responsive-modal-closeButton {
+   
+    background-color: white !important;
+}

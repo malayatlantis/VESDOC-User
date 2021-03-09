@@ -1,0 +1,220 @@
+
+@media (min-width: 1800px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 32px !important;
+    }
+    .starClass{
+        height: 18px !important;
+    }
+    .mobilePadding{
+        padding-top:60px;
+    }
+    .relatedPadding{
+        padding: 15px;
+    }
+}
+@media (max-width: 1800px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 32px !important;
+    }
+    .starClass{
+        height: 18px !important;
+    }
+    .mobilePadding{
+        padding-top:60px;
+    }
+    .relatedPadding{
+        padding: 15px;
+    }
+}
+@media (max-width: 1580px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 32px !important;
+    }
+    .starClass{
+        height: 18px !important;
+    }
+    .mobilePadding{
+        padding-top:60px;
+    }
+    .relatedPadding{
+        padding: 15px;
+    }
+}
+@media (max-width: 1200px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 30px !important;
+    }
+    .starClass{
+        height: 18px !important;
+    }
+    .mobilePadding{
+        padding-top:60px;
+    }
+    .relatedPadding{
+        padding: 15px;
+    }
+   
+}
+
+
+/* mobile */
+@media (max-width: 768px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 26px !important;
+    }
+    .starClass{
+        height: 16px !important;
+    }
+    .mobilePadding{
+        padding-top:0;
+    }
+    .relatedPadding{
+        padding: 0;
+    }
+   
+}
+@media (max-width: 450px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 26px !important;
+    }
+    .starClass{
+        height: 16px !important;
+    }
+    .mobilePadding{
+        padding-top:0;
+    }
+    .relatedPadding{
+        padding: 0;
+    }
+   
+}
+@media (max-width: 360px){
+    .h2Margin{
+        margin-bottom: 2px !important;
+        font-size: 26px !important;
+    }
+    .starClass{
+        height: 16px !important;
+    }
+    .mobilePadding{
+        padding-top:0;
+    }
+    .relatedPadding{
+        padding: 0;
+    }
+   
+}
+.comments__rate{
+    top: 8px !important;
+}
+
+.classPlayer{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.rc-loading .rc-loading-icon {
+    position: absolute;
+    top: 36vh !important;
+    z-index: 2;
+    width: 100%;
+    cursor: default;
+    margin-top: -12px;
+    color: #fff;
+}
+
+
+.share__link {
+    margin-top: 0px !important
+}
+
+.watchLater{
+    color:white;
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 1px #151f30;
+    width: 75px;
+    margin: 0 5px;
+}
+.watchLater:hover{
+    background-color: #151f30;
+}
+.watchLaterIcon{
+    font-size: 25px;
+    color:white;
+}
+.watchLaterIcon1{
+    font-size: 25px;
+    color:#2f80ed;
+}
+.shareTitle{
+    font-size: 15px;
+    color:white;
+    padding-bottom: 10px;
+}
+.shareDiv{
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+.report{
+    float: right;
+    color:white;
+    cursor: pointer;
+}
+.reportTitle{
+    font-size: 12px;
+}
+.report:hover{
+    color: #2f80ed;
+}
+@media (min-width: 700px){
+    .RepotTextarea{
+        width: 30vw;
+    }
+}
+@media (max-width: 700px){
+    .RepotTextarea{
+        width: 70vw;
+    }
+}
+
+
+.rc-loading .rc-loading-mask {
+    z-index: 2000 !important;
+    background-color: #00000061 !important;
+  }
+  .react-responsive-modal-closeButton {
+   
+    background-color: white !important;
+}
+
+
+.pagination{
+    margin: 0 !important;
+}
+
+.pagination>.next{
+    position: inherit !important;
+    font-size: inherit !important;
+
+}
+.pagination > li > a {
+    border: 1px solid #273650 !important;
+    color: white !important
+}
+.pagination > .active > a {
+    background-color: #273650 !important;
+    border-color: #273650 !important;
+}

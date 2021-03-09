@@ -1,0 +1,35 @@
+
+@media (max-width: 700px){
+    .mainErrorDiv{
+        height: 60vh;
+        margin-top: 95px;
+        margin-left: -15px;
+    }
+    
+    .TitleSpan{
+        font-size: 30px;
+    }
+    .T404Span{
+        font-size: 100px;
+        color: #55595d;
+    }
+    
+
+}
+@media (min-width: 700px){
+    .mainErrorDiv{
+        height: 60vh;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    
+    .TitleSpan{
+        font-size: 50px;
+        color: #55595d;
+    }
+    .T404Span{
+        font-size: 200px;
+    }
+    
+
+}

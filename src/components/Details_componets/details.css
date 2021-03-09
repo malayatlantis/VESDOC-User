@@ -1,0 +1,516 @@
+.bannerDiv{
+ 
+}
+@media (min-width: 1800px){
+    .mobileMargin{
+        margin: 0 5%;
+        width: 90%
+    }
+    .bannerDiv {
+        margin: 0 5%;
+        width: 90%;
+        height: 500px;
+        border-radius: 5px;
+    }
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 9px;
+        line-height: 28px;
+        padding: 31px 36px;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 28px;
+    }
+    .titleSpanDesktop{
+        color: white;
+        font-weight: 600;
+        font-size: 32px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 700;
+        font-size: 22px;
+    }
+    .mobileHide{
+        display: block !important;
+    }
+    .desktopHide{
+        display: none !important;
+    }
+}
+@media (max-width: 1800px){
+    .mobileMargin{
+        margin: 0 5%;
+        width: 90%
+    }
+    .bannerDiv {
+        margin: 0 5%;
+        width: 90%;
+        height: 450px;
+        border-radius: 5px;
+    }
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 9px;
+        line-height: 27px;
+        padding: 30px 35px;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 26px;
+    }
+    .titleSpanDesktop{
+        color: white;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .mobileHide{
+        display: block !important;
+    }
+    .desktopHide{
+        display: none !important;
+    }
+}
+@media (max-width: 1580px){
+    .mobileMargin{
+        margin: 0 5%;
+        width: 90%
+    }
+    .bannerDiv {
+        margin: 0 5%;
+        width: 90%;
+        height: 400px;
+        border-radius: 5px;
+    }
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 9px;
+        line-height: 26px;
+        padding: 30px 35px;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 24px;
+    }
+    .titleSpanDesktop{
+        color: white;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 700;
+        font-size: 18px;
+    }
+    .mobileHide{
+        display: block !important;
+    }
+    .desktopHide{
+        display: none !important;
+    }
+}
+@media (max-width: 1200px){
+    .mobileMargin{
+        margin: 0 5%;
+        width: 90%
+    }
+    .bannerDiv {
+        margin: 0 5%;
+        width: 90%;
+        height: 380px;
+        border-radius: 5px;
+    }
+   
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 9px;
+        line-height: 25px;
+        padding: 30px 35px;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 24px;
+    }
+    .titleSpanDesktop{
+        color: white;
+        font-weight: 600;
+        font-size: 26px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 16px;
+    }
+    .mobileHide{
+        display: block !important;
+    }
+    .desktopHide{
+        display: none !important;
+    }
+}
+@media (max-width: 984px){
+    .mobileMargin{
+        margin: 0 4%;
+        width: 92%
+    }
+    .bannerDiv {
+        margin: 0 5%;
+        width: 90%;
+        height: 360px;
+        border-radius: 5px;
+      
+    }
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 9px;
+        line-height: 24px;
+        padding: 30px 35px;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 24px;
+    }
+    .titleSpanDesktop{
+        color: white;
+        font-weight: 600;
+        font-size: 26px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .mobileHide{
+        display: block !important;
+    }
+    .desktopHide{
+        display: none !important;
+    }
+}
+
+
+/* mobile */
+@media (max-width: 768px){
+    .mobileMargin{
+        margin: 0;
+        width: 100%
+    }
+    .bannerDiv {
+        margin: 75px 0px 0px 0px;
+        width: 100%;
+        height: 345px;
+        border-radius: 0;
+        padding: 0;
+    }
+    .baImage{
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .desRedius{
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .desDiv{
+        border-radius: 0px;
+        line-height: 20px;
+        padding: 0;
+
+    }
+    .mobileHide{
+        display: none !important;
+    }
+    .desktopHide{
+        display: block !important;
+    }
+}
+@media (max-width: 576px){
+    .mobileMargin{
+        margin: 0;
+        width: 100%
+
+    }
+    .bannerDiv {
+        margin: 75px 0px 0px 0px;
+        width: 100%;
+        height: 285px;
+        border-radius: 0;
+        padding: 0;
+    }
+    .baImage{
+        border-radius: 0px;
+    }
+    .desDiv{
+        border-radius: 0px;
+        line-height: 20px;
+        padding: 0;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 14px;
+        
+    }
+    .mobileHide{
+        display: none !important;
+    }
+    .desktopHide{
+        display: block !important;
+    }
+   
+}
+@media (max-width: 450px){
+    .mobileMargin{
+        margin: 0;
+        width: 100%
+
+    }
+    .bannerDiv {
+        margin: 75px 0px 0px 0px;
+        width: 100%;
+        height: 225px;
+        border-radius: 0;
+        padding: 0;
+
+    }
+    .baImage{
+        border-radius: 0px;
+    }
+    .desDiv{
+        border-radius: 0px;
+        line-height: 20px;
+        padding: 0;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .mobileHide{
+        display: none !important;
+    }
+    .desktopHide{
+        display: block !important;
+    }
+    
+}
+@media (max-width: 360px){
+    .mobileMargin{
+        margin: 0;
+        width: 100%
+
+    }
+    .bannerDiv{
+        margin: 75px 0px 0px 0px;
+        width: 100%;
+        height: 170px;
+        border-radius: 0;
+        padding: 0;
+    }
+    .baImage{
+        border-radius: 0px;
+    }
+    .desDiv{
+        border-radius: 0px;
+        line-height: 20px;
+        padding: 0;
+    }
+    .titleSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .desSpan{
+        color: white;
+        font-weight: 600;
+        font-size: 14px;
+    }
+   .mobileHide{
+       display: none !important;
+   }
+   .desktopHide{
+        display: block !important;
+    }
+}
+
+
+.bannerDivImage{
+    display: block ;
+    transition: 0.5s;
+    overflow: hidden;
+    position: relative;
+    height: -webkit-fill-available;
+    width: 100%;
+}
+
+.bannerDivImage div {
+    position: absolute;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    pointer-events: none;
+
+}
+.desDiv{
+    background-image: linear-gradient(to bottom, rgba(51,51,51,0), rgba(0,0,0,0.8) 80%, black 100%);
+    margin: 0 !important;
+    display: flex;
+    
+
+}
+.colPa{
+    margin: 0;
+    padding: 0;
+}
+
+.desRedius {
+    background-color: #030b17;
+    padding-top: 5%;
+    padding-right: 0;
+    padding-left: 5%;
+    padding-bottom: 4%;
+}
+.linerGradient{
+    background: linear-gradient(to right, #030b17, rgba(0,0,0,0));
+    height: 100%;
+    width: 200px;
+
+}
+.deskDes{
+    color: #9a9da2;
+}
+.deskShortDes{
+    padding-top:5% ;
+    color: #c0bfcd;
+    font-weight: 600;
+}
+.watchDiv{
+    padding-left: 10px;
+
+}
+.watch{
+    color:white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 10px;
+}
+.watchDes{
+    color: #9a9da2;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 10px;
+}
+.playBtn{
+    font-size: 30px;
+    padding: 0 10px 10px 10px;
+    color: #bdbbbb;
+}
+.fullWatch{
+    bottom: 40px;
+    position: absolute;
+}
+@media (max-width: 700px){
+    .commClass{
+        color: white;
+        font-size: 10px;
+    }
+
+    .commClassTitle{
+        color: white;
+        font-size: 15px;
+    }
+    .desktopHide1{
+        display: inline-flex;
+    }
+    .mobileHide1{
+        display: none;
+    }
+}
+
+@media (min-width: 700px){
+    .commClass{
+        color: white;
+        font-size: 20px;
+    }
+
+    .commClassTitle{
+        color: white;
+        font-size: 25px;
+    }
+    .selitonWidth{
+        width: 13vw;
+        height: 8.7vw;
+    }
+    .desktopHide1{
+        display: none;
+    }
+    .mobileHide1{
+        display: inline-flex;
+    }
+}
+.notAva{
+    min-height: 110px;
+}
+
+

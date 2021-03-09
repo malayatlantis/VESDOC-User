@@ -1,0 +1,76 @@
+{
+  "name": "docubay-user",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "axios": "^0.21.1",
+    "copy-to-clipboard": "^3.3.1",
+    "ember-mobile-menu": "^2.1.1",
+    "html-to-text": "^6.0.0",
+    "moment-js": "^1.1.15",
+    "query-string": "^6.13.8",
+    "react": "^16.13.1",
+    "react-avatar": "^3.9.7",
+    "react-burger-menu": "^3.0.3",
+    "react-device-detect": "^1.15.0",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.1.0",
+    "react-js-snackbar": "^1.0.4",
+    "react-loader-spinner": "^4.0.0",
+    "react-loading-skeleton": "^2.1.1",
+    "react-loadingmask": "^4.0.6",
+    "react-material-toast": "^16.1.7",
+    "react-multi-carousel": "^2.6.1",
+    "react-paginate": "^7.0.0",
+    "react-redux": "^7.2.2",
+    "react-responsive-modal": "^6.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-side-bar": "^1.0.4",
+    "react-simple-snackbar": "^1.1.10",
+    "react-slick": "^0.28.0",
+    "react-toastify": "^7.0.3",
+    "react-transition-group": "^4.4.1",
+    "react-validation": "^3.0.7",
+    "reactstrap": "^8.9.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^2.0.3",
+    "simple-react-validator": "^1.6.0",
+    "simple-react-validator-hooks": "^1.0.0",
+    "slick-carousel": "^1.8.1",
+    "uniqid": "^5.2.0",
+    "url-crypt": "^1.2.1",
+    "video-react": "^0.14.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

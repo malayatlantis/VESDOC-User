@@ -1,0 +1,47 @@
+.userInput{
+	display: flex;
+	justify-content: center;
+}
+
+.abc{
+	margin: 10px;
+	height: 35px;
+	width: 36px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	font-family: arimo;
+	font-size: 1.2rem;
+	background: #eef2f3;
+
+}
+
+.hl{
+	text-align: center;
+	font-family: arimo;
+	color: honeydew;
+}
+
+/* .nav-sticky{
+	position:sticky;
+	top:0
+} */
+
+@media(max-width:786px){
+	.profile-off{
+	
+		display: none;
+	}
+}
+@media(min-width:786px){
+	.profile-on{
+	
+		display: none;
+	}
+}
+@media(min-width:786px){
+	.nav-sticky{
+		position:sticky;
+	top:0;
+	}
+}

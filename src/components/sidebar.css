@@ -1,0 +1,221 @@
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: absolute;
+    width: 24px;
+    height: 22px;
+    display: block;
+    left: 15px;
+    top: 29px;
+    color:white
+  }
+  
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: white;
+    height: 10% !important;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  /* .bm-burger-bars-hover {
+    background: #030b17;
+  } */
+  
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+  
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+  }
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: #131b29;
+    font-size: 1.15em;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #373a47;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+  }
+  
+  /* Individual item */
+  .bm-item {
+    display: inline-block;
+    color: white;
+    font-size: medium;
+  }
+  
+  /* Styling of overlay */
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+
+  @media (min-width: 1200px){
+.MobileMenu{
+    display: none;
+}
+
+  }
+
+
+  @media (max-width: 1200px){
+.MobileMenu{
+    display: block;
+}
+
+}
+
+
+@media (min-width: 700px){
+  .RepotTextarea1{
+      width: 30vw;
+  }
+}
+@media (max-width: 700px){
+  .RepotTextarea1{
+      width: 70vw;
+  }
+}
+.myStudio{
+  font-size: 14px;
+  color: white;
+}
+.myStudio:hover{
+  color: #2f80ed;
+}
+
+.textModal{
+  color:white;
+  font-size: 13px;
+  margin: 10px 0px  0px  0px !important;
+}
+.textField{
+  width: 100%;
+  height: 45px;
+  border-radius: 10px;
+  padding: 0 20px;
+  border: none;
+}
+
+.buttonText{
+  color:white;
+  padding: 10px 15px;
+  margin: 10px 0;
+  background-color: #2f80ed;
+  border-radius: 10px;
+}
+
+
+.buttonText:hover{
+  color:white;
+  padding: 10px 15px;
+  margin: 10px 0;
+  background-color: #17476e;
+  border-radius: 10px;
+}
+
+
+@media (min-width: 700px){
+  .desktopFooter{
+    display: block;
+  }
+  .extraFooter{
+    display: none;
+  }
+}
+@media (max-width: 700px){
+  .desktopFooter{
+    display: none;
+  }
+  .extraFooter{
+    display: block;
+  }
+}
+
+
+.extraFooter{
+  padding:14px 10px;
+  background:linear-gradient(180deg, rgba(21,31,48,0.35) 0%, #131720 100%);
+  position:relative;
+  overflow:hidden;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.footer__social a{
+  margin-top:0 !important
+}
+
+.profileDiv{
+  padding: 20px;
+}
+.bm-item-list {
+  padding: 0 !important;
+}
+.bm-cross-button {
+ display: none !important;
+}
+.menuContantDiv{
+  padding: 10px 0px;
+}
+.menuTextDivDe{
+  margin-left: 15px;
+  display: grid;
+}
+
+.linkStyle{
+  font-size: 12px;
+  color: rgb(144, 146, 157);
+}
+.linkStyle:hover{
+  color: #2196f3 !important;
+}
+.buttonStyle{
+  bottom: 15px;
+  width: 100%;
+  position: absolute;
+}
+
+.menuTextDiv{
+  padding: 10px 20px;
+  margin: 0 !important;
+
+}
+.menuTextDiv:hover{
+  background-color: #131720;
+}
+.menuTextDes{
+  font-size: 10px;
+  color: rgb(144, 146, 157);
+}
+.menuText{
+  font-size: 16px;
+
+}
+.menuText1{
+  font-size: 16px;
+  padding-top: 9px;
+}
+.menuIcon{
+  font-size: 22px;
+}
